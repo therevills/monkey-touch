@@ -1,0 +1,50 @@
+<towers>
+	<tower>
+		<name>Turret</name>
+		<desc>Cheap, fast weak lazer turret</desc>
+		<image>turretBase</image>
+		<gunImage>turretGun</gunImage>
+		<damage>6</damage>
+		<damageBonus>2</damageBonus>
+		<range>100</range>
+		<health>100</health>
+		<fireRate>500</fireRate>
+		<cost>200</cost>
+		<firePosX>0</firePosX>
+		<firePosY>-7</firePosY>
+		<fireType>lazer</fireType>
+		<slowDown>0</slowDown>
+	</tower>
+	<tower>
+		<name>Rocket</name>
+		<desc>Costly, slow strong rocket tower</desc>
+		<image>ArtilBase</image>
+		<gunImage>ArtilGun</gunImage>
+		<damage>40</damage>
+		<damageBonus>2</damageBonus>
+		<range>150</range>
+		<health>100</health>
+		<fireRate>1000</fireRate>
+		<cost>300</cost>
+		<firePosX>0</firePosX>
+		<firePosY>-7</firePosY>
+		<fireType>rocket</fireType>
+		<slowDown>0</slowDown>
+	</tower>
+	<tower>
+		<name>Slow</name>
+		<desc>Slows down enemy units</desc>
+		<image>ArtilBase</image>
+		<gunImage>slowGun</gunImage>
+		<damage>2</damage>
+		<damageBonus>0</damageBonus>
+		<range>125</range>
+		<health>100</health>
+		<fireRate>750</fireRate>
+		<cost>250</cost>
+		<firePosX>0</firePosX>
+		<firePosY>-7</firePosY>
+		<fireType>slow</fireType>
+		<slowDown>2000</slowDown>
+	</tower>
+</towers>

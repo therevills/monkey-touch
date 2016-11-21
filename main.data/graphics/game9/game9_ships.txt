@@ -1,0 +1,11 @@
+game9/game9_ships.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game9_player
+  rotate: false
+  xy: 49, 25
+  size: 23, 21
+  orig: 9, 10
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,214 @@
+sheet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game19_icon
+  rotate: false
+  xy: 62, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game9_icon
+  rotate: false
+  xy: 182, 122
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game14_icon
+  rotate: false
+  xy: 122, 62
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+invader_alien_blue
+  rotate: false
+  xy: 2, 380
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+invader_shield
+  rotate: false
+  xy: 2, 406
+  size: 24, 14
+  orig: 32, 32
+  offset: 4, 7
+  index: -1
+invader_player_bullet
+  rotate: false
+  xy: 242, 2
+  size: 10, 10
+  orig: 32, 32
+  offset: 14, 12
+  index: -1
+game10_icon
+  rotate: false
+  xy: 122, 122
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game3_icon
+  rotate: false
+  xy: 62, 242
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+invader_alien_hit
+  rotate: false
+  xy: 2, 354
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+invader_alien_pink
+  rotate: false
+  xy: 2, 328
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+game5_icon
+  rotate: false
+  xy: 182, 182
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game6_icon
+  rotate: false
+  xy: 122, 182
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game18_icon
+  rotate: false
+  xy: 122, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game13_icon
+  rotate: false
+  xy: 182, 62
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+invader_player_
+  rotate: false
+  xy: 2, 436
+  size: 24, 10
+  orig: 32, 32
+  offset: 4, 22
+  index: 2
+game12_icon
+  rotate: false
+  xy: 2, 122
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game8_icon
+  rotate: false
+  xy: 2, 182
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game15_icon
+  rotate: false
+  xy: 62, 62
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game1_icon
+  rotate: false
+  xy: 182, 242
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game20_icon
+  rotate: false
+  xy: 2, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+invader_alien_saucer
+  rotate: false
+  xy: 2, 448
+  size: 24, 8
+  orig: 32, 32
+  offset: 4, 13
+  index: -1
+game11_icon
+  rotate: false
+  xy: 62, 122
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game2_icon
+  rotate: false
+  xy: 122, 242
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game7_icon
+  rotate: false
+  xy: 62, 182
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game17_icon
+  rotate: false
+  xy: 182, 2
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+invader_alien_bullet
+  rotate: false
+  xy: 242, 14
+  size: 4, 10
+  orig: 32, 32
+  offset: 14, 10
+  index: -1
+invader_player_
+  rotate: false
+  xy: 2, 422
+  size: 24, 12
+  orig: 32, 32
+  offset: 4, 20
+  index: 1
+invader_alien_yellow
+  rotate: false
+  xy: 2, 302
+  size: 24, 24
+  orig: 32, 32
+  offset: 4, 3
+  index: -1
+game4_icon
+  rotate: false
+  xy: 2, 242
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+game16_icon
+  rotate: false
+  xy: 2, 62
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

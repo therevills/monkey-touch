@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/192/trunk/main.data/graphics/game8
+END
+level2.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level2.tmx
+END
+smoke.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/170/trunk/main.data/graphics/game8/smoke.png
+END
+level3.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level3.tmx
+END
+level4.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level4.tmx
+END
+game8.tps
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/main.data/graphics/game8/game8.tps
+END
+gui.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/148/trunk/main.data/graphics/game8/gui.png
+END
+tank7.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134/trunk/main.data/graphics/game8/tank7.png
+END
+Tank5b.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/163/trunk/main.data/graphics/game8/Tank5b.png
+END
+expSmall.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/main.data/graphics/game8/expSmall.png
+END
+rocket.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/170/trunk/main.data/graphics/game8/rocket.png
+END
+explosn.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/trunk/main.data/graphics/game8/explosn.png
+END
+backButtonMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/backButtonMO.png
+END
+flaggreen.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/182/trunk/main.data/graphics/game8/flaggreen.png
+END
+hardtank.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/165/trunk/main.data/graphics/game8/hardtank.png
+END
+slowBullet.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/slowBullet.png
+END
+backButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/backButton.png
+END
+game8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/main.data/graphics/game8/game8.txt
+END
+Artil3.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/168/trunk/main.data/graphics/game8/Artil3.png
+END
+slowGun.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/171/trunk/main.data/graphics/game8/slowGun.png
+END
+titleLogo.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/titleLogo.png
+END
+ArtilBase.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/170/trunk/main.data/graphics/game8/ArtilBase.png
+END
+exploBig.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/143/trunk/main.data/graphics/game8/exploBig.png
+END
+game8_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/main.data/graphics/game8/game8_icon.png
+END
+slowButtonMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/173/trunk/main.data/graphics/game8/slowButtonMO.png
+END
+turretButtonMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/156/trunk/main.data/graphics/game8/turretButtonMO.png
+END
+rocketButtonMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/168/trunk/main.data/graphics/game8/rocketButtonMO.png
+END
+slowButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/173/trunk/main.data/graphics/game8/slowButton.png
+END
+turretBase.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134/trunk/main.data/graphics/game8/turretBase.png
+END
+turretButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/156/trunk/main.data/graphics/game8/turretButton.png
+END
+rocketButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/168/trunk/main.data/graphics/game8/rocketButton.png
+END
+ArtilGun.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/170/trunk/main.data/graphics/game8/ArtilGun.png
+END
+slowButtonSelectedMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/173/trunk/main.data/graphics/game8/slowButtonSelectedMO.png
+END
+turretButtonSelectedMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/162/trunk/main.data/graphics/game8/turretButtonSelectedMO.png
+END
+rocketButtonSelectedMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/168/trunk/main.data/graphics/game8/rocketButtonSelectedMO.png
+END
+slowButtonSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/173/trunk/main.data/graphics/game8/slowButtonSelected.png
+END
+turretButtonSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/156/trunk/main.data/graphics/game8/turretButtonSelected.png
+END
+rocketButtonSelected.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/168/trunk/main.data/graphics/game8/rocketButtonSelected.png
+END
+playButtonMO.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/playButtonMO.png
+END
+empty.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/170/trunk/main.data/graphics/game8/empty.png
+END
+turretGun.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/139/trunk/main.data/graphics/game8/turretGun.png
+END
+towers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/190/trunk/main.data/graphics/game8/towers.xml
+END
+game8_thumb.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/main.data/graphics/game8/game8_thumb.png
+END
+game8.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/123/trunk/main.data/graphics/game8/game8.png
+END
+enemies.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/181/trunk/main.data/graphics/game8/enemies.xml
+END
+playButton.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/177/trunk/main.data/graphics/game8/playButton.png
+END
+level1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/184/trunk/main.data/graphics/game8/level1.xml
+END
+level2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level2.xml
+END
+level3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level3.xml
+END
+level4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/192/trunk/main.data/graphics/game8/level4.xml
+END
+tileset.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/123/trunk/main.data/graphics/game8/tileset.png
+END
+flag.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/182/trunk/main.data/graphics/game8/flag.png
+END
+button.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/156/trunk/main.data/graphics/game8/button.png
+END
+level1.tmx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/182/trunk/main.data/graphics/game8/level1.tmx
+END

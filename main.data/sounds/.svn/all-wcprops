@@ -1,0 +1,815 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/199/trunk/main.data/sounds
+END
+explode_01.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/explode_01.ogg
+END
+explode_03.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_03.ogg
+END
+g12_goingup.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingup.mp3
+END
+g12_miss2.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss2.ogg
+END
+vexplosion.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/186/trunk/main.data/sounds/vexplosion.ogg
+END
+Firelaser.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/190/trunk/main.data/sounds/Firelaser.ogg
+END
+g12_goody.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goody.mp3
+END
+g12_combat.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_combat.ogg
+END
+g12_coin.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_coin.mp3
+END
+g12_goingdown.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingdown.mp3
+END
+g12_temple.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_temple.ogg
+END
+shot_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_02.mp3
+END
+g12_hithurt1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt1.wav
+END
+Hurt.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/Hurt.wav
+END
+g12_hithurt3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt3.wav
+END
+ButtonOver.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonOver.ogg
+END
+spawn_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_02.wav
+END
+highscore.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98/trunk/main.data/sounds/highscore.ogg
+END
+shot_01.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/main.data/sounds/shot_01.ogg
+END
+shot_03.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_03.ogg
+END
+powerup_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_02.wav
+END
+g12_smash.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_smash.ogg
+END
+powerup_04.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/trunk/main.data/sounds/powerup_04.wav
+END
+game9_death.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_death.wav
+END
+g12_explosion.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_explosion.ogg
+END
+game9_laser1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_laser1.wav
+END
+Firemissile.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/186/trunk/main.data/sounds/Firemissile.wav
+END
+game9_laser3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_laser3.wav
+END
+g12_hithurt1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt1.mp3
+END
+game9_explosion2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_explosion2.wav
+END
+Hurt.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/Hurt.mp3
+END
+g12_hithurt3.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt3.mp3
+END
+hit_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_02.wav
+END
+spawn_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_02.mp3
+END
+ButtonClick.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonClick.ogg
+END
+explode_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/explode_01.wav
+END
+g12_hithurt2.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt2.ogg
+END
+explode_03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_03.wav
+END
+g12_hithurt4.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt4.ogg
+END
+powerup_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_02.mp3
+END
+powerup_04.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/trunk/main.data/sounds/powerup_04.mp3
+END
+vexplosion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/186/trunk/main.data/sounds/vexplosion.wav
+END
+g12_miss2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss2.wav
+END
+spawn_01.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_01.ogg
+END
+spawn_03.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/106/trunk/main.data/sounds/spawn_03.ogg
+END
+lowscore.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/98/trunk/main.data/sounds/lowscore.ogg
+END
+Firelaser.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/190/trunk/main.data/sounds/Firelaser.wav
+END
+Firemissile.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/186/trunk/main.data/sounds/Firemissile.mp3
+END
+g12_combat.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_combat.wav
+END
+powerup_01.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_01.ogg
+END
+powerup_03.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_03.ogg
+END
+hit_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_02.mp3
+END
+g12_temple.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_temple.wav
+END
+g12_heal.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_heal.ogg
+END
+explode_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/explode_01.mp3
+END
+hit_01.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_01.ogg
+END
+slow.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/slow.ogg
+END
+explode_03.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_03.mp3
+END
+g12_levelup.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_levelup.ogg
+END
+hit_03.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_03.ogg
+END
+ButtonOver.wav
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonOver.wav
+END
+vexplosion.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/186/trunk/main.data/sounds/vexplosion.mp3
+END
+g12_miss2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss2.mp3
+END
+highscore.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98/trunk/main.data/sounds/highscore.wav
+END
+shot_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/main.data/sounds/shot_01.wav
+END
+Firelaser.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/190/trunk/main.data/sounds/Firelaser.mp3
+END
+shot_03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_03.wav
+END
+g12_combat.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_combat.mp3
+END
+explode_02.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_02.ogg
+END
+g12_smash.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_smash.wav
+END
+g12_miss1.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss1.ogg
+END
+g12_miss3.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss3.ogg
+END
+g12_explosion.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_explosion.wav
+END
+g12_goingup.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingup.ogg
+END
+g12_temple.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_temple.mp3
+END
+ButtonOver.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonOver.mp3
+END
+g12_goody.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goody.ogg
+END
+highscore.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/98/trunk/main.data/sounds/highscore.mp3
+END
+shot_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/main.data/sounds/shot_01.mp3
+END
+g12_coin.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_coin.ogg
+END
+ButtonClick.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonClick.wav
+END
+shot_03.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_03.mp3
+END
+g12_hithurt2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt2.wav
+END
+g12_goingdown.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingdown.ogg
+END
+g12_hithurt4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt4.wav
+END
+g12_smash.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_smash.mp3
+END
+spawn_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_01.wav
+END
+spawn_03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/106/trunk/main.data/sounds/spawn_03.wav
+END
+g12_explosion.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_explosion.mp3
+END
+lowscore.wav
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/98/trunk/main.data/sounds/lowscore.wav
+END
+shot_02.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_02.ogg
+END
+powerup_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_01.wav
+END
+powerup_03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_03.wav
+END
+game9_laser2.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_laser2.wav
+END
+game9_laser4.wav
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_laser4.wav
+END
+g12_heal.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_heal.wav
+END
+game9_explosion1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_explosion1.wav
+END
+ButtonClick.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/148/trunk/main.data/sounds/ButtonClick.mp3
+END
+slow.wav
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/slow.wav
+END
+hit_01.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_01.wav
+END
+g12_hithurt2.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt2.mp3
+END
+game9_explosion3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_explosion3.wav
+END
+g12_levelup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_levelup.wav
+END
+hit_03.wav
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_03.wav
+END
+g12_hithurt4.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt4.mp3
+END
+spawn_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_01.mp3
+END
+spawn_03.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/106/trunk/main.data/sounds/spawn_03.mp3
+END
+game9_pickup1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/174/trunk/main.data/sounds/game9_pickup1.wav
+END
+lowscore.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/98/trunk/main.data/sounds/lowscore.mp3
+END
+g12_hithurt1.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt1.ogg
+END
+explode_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_02.wav
+END
+Hurt.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/Hurt.ogg
+END
+g12_hithurt3.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_hithurt3.ogg
+END
+powerup_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_01.mp3
+END
+g12_miss1.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss1.wav
+END
+powerup_03.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_03.mp3
+END
+g12_miss3.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss3.wav
+END
+spawn_02.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/main.data/sounds/spawn_02.ogg
+END
+g12_goingup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingup.wav
+END
+powerup_02.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/main.data/sounds/powerup_02.ogg
+END
+powerup_04.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/96/trunk/main.data/sounds/powerup_04.ogg
+END
+g12_heal.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_heal.mp3
+END
+hit_01.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_01.mp3
+END
+slow.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/190/trunk/main.data/sounds/slow.mp3
+END
+g12_levelup.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_levelup.mp3
+END
+hit_03.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_03.mp3
+END
+g12_goody.wav
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goody.wav
+END
+Firemissile.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/186/trunk/main.data/sounds/Firemissile.ogg
+END
+g12_coin.wav
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_coin.wav
+END
+explode_02.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/97/trunk/main.data/sounds/explode_02.mp3
+END
+g12_goingdown.wav
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_goingdown.wav
+END
+hit_02.ogg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/main.data/sounds/hit_02.ogg
+END
+g12_miss1.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss1.mp3
+END
+g12_miss3.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/199/trunk/main.data/sounds/g12_miss3.mp3
+END
+shot_02.wav
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/96/trunk/main.data/sounds/shot_02.wav
+END

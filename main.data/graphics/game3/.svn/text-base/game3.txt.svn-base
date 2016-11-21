@@ -1,0 +1,18 @@
+game3/game3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game3_thumb
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+game3_icon
+  rotate: false
+  xy: 2, 104
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1

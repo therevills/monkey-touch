@@ -1,0 +1,25 @@
+game9/game9_bullets2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+game9_bullet3
+  rotate: false
+  xy: 181, 73
+  size: 11, 11
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+game9_bullet4
+  rotate: false
+  xy: 145, 25
+  size: 11, 11
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+game9_bullet5
+  rotate: false
+  xy: 49, 133
+  size: 11, 11
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
